@@ -1,6 +1,7 @@
-// The Glass Phoenix Rises Over the Lighthouse Town — coolest-art-01 entry
+// Stained-Glass Phoenix Over the Lighthouse Town — coolest-art-01 entry v2
 // for @tapetelo (Node 22, standard library only). The art is the entry.png
 // beside this file; this program copies it to /output/entry.png.
+//
 // Outside the grader's container, MAKEFUN_OUTPUT_DIR stands in for /output:
 //   mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
 
